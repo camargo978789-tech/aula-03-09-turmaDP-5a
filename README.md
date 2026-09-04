@@ -59,5 +59,27 @@ git commit -m "descrição"
 git push origin main
 ```
 
+## Citações
 
+```
+>Uma boa documentação explica o objetivo, uso e as limitações de um projeto.
+```
+>Uma boa documentação explica o objetivo, uso e as limitações de um projeto.
+
+## Tabelas
+
+| Teccnologia | Finalidade |
+| --- | ---|
+
+| Git | Controle de versões | GitHub | Hospedagem e Colaboração | Markdown | Documentação | 
+
+| Alinhado à esquerda | Alianhado ao centro | Alinhado à direita |
+| :---| :---: | ---: |
+| texto| texto | texto |
+
+##  Imagens
+
+![São Paulo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDdN0eHsTLp7pvbLGmuaqLnz_gq_QfH98Yi-JWHIiahfJtC4XzVNE_3E0&s=10)
+
+![Neymar](./Neymar/Neymar-Santos-3.webp)
 
